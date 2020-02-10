@@ -1,0 +1,9 @@
+{
+  "name": "workshop-theme",
+  "version": "1.0.0",
+  "description": "Starter theme for the workshop",
+  "scripts": {
+  },
+  "author": "",
+  "license": "GPL-2.0-or-later"
+}
