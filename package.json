@@ -2,8 +2,17 @@
   "name": "workshop-theme",
   "version": "1.0.0",
   "description": "Starter theme for the workshop",
+  "repository": "https://github.com/mattheu/workshop-theme",
   "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^7.1.0"
   },
   "author": "",
-  "license": "GPL-2.0-or-later"
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
 }
